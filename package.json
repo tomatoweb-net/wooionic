@@ -1,0 +1,13 @@
+{
+  "name": "woocommerce-pwa",
+  "version": "1.0.0",
+  "description": "WooCommerce PWA using Bootstrap",
+  "scripts": {
+    "start": "serve public"
+  },
+  "devDependencies": {
+    "serve": "^12.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
